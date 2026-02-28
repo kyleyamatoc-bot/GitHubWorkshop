@@ -1,2 +1,2 @@
 # GitHubWorkshop
-Collaborators: kyleyamatoc-bot
+Collaborators: kyleyamatoc-bot, yongxennzz-bot
