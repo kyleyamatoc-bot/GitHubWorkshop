@@ -1,2 +1,3 @@
 # GitHubWorkshop
-Collaborators: kyleyamatoc-bot, yongxennzz-bot
+Collaborators: kyleyamatoc-bot, yongxennzz-bot, Jun-Yin67-bot
+
